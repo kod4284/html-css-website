@@ -1,0 +1,15 @@
+.container {
+  width: 300px;
+  background-color: #fcf2ce;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-left: 6px solid #a273bf;
+  border-radius: 6px;
+  text-align: left;
+}
